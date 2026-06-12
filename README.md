@@ -4,8 +4,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harishram4106&style=for-the-badge&color=10b981&labelColor=374151&label=PROFILE+VIEWS)
 ![Internships](https://img.shields.io/badge/AI_INTERNSHIPS-2-10b981?style=for-the-badge&labelColor=374151)
-![Hackathons](https://img.shields.io/badge/HACKATHONS-3-10b981?style=for-the-badge&labelColor=374151)
-![Certifications](https://img.shields.io/badge/CERTIFICATIONS-20%2B-10b981?style=for-the-badge&labelColor=374151)
+![Hackathons](https://img.shields.io/badge/HACKATHONS-30-10b981?style=for-the-badge&labelColor=374151)
+![Certifications](https://img.shields.io/badge/CERTIFICATIONS-59-10b981?style=for-the-badge&labelColor=374151)
 ![Repos](https://img.shields.io/badge/REPOS-12-10b981?style=for-the-badge&labelColor=374151)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-10b981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151)](https://www.linkedin.com/in/harishram-balamurugan)
@@ -28,7 +28,7 @@ struct Harishram {
     hackathons:    ["DEFY'26 — Finalist, 50 teams (VIT Chennai)",
                      "NXTGEN Hackathon — SRMIST",
                      "HackXios 2k25 — IIIT Bhopal x Devfolio"],
-    certifications: "20+ across Anthropic Claude, AWS Generative AI/Bedrock, NPTEL (IIT Roorkee)",
+    certifications: "59 across Anthropic Claude, AWS Generative AI/Bedrock, NPTEL (IIT Roorkee)",
     status:        "open_to_work(domain: AI Engineering | Backend | LLM Systems)",
 }
 ```
@@ -115,7 +115,7 @@ struct Harishram {
 ---
 
 <details>
-<summary><strong>📜 Certifications (20+) — click to expand</strong></summary>
+<summary><strong>📜 Certifications (59) — click to expand</strong></summary>
 
 <br>
 
