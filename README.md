@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:065f46,100:047857&height=250&section=header&text=Harishram%20Balamurugan&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20Full-Stack%20Developer%20%C2%B7%20LLM%2FRAG%20Engineer%20%C2%B7%20Hackathon%20Finalist&descSize=16&descColor=d1fae5&descAlignY=65&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:065f46,100:047857&height=250&section=header&text=Harishram%20Balamurugan&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=AI%20and%20Full-Stack%20Developer%20%C2%B7%20LLM%2FRAG%20Engineer%20%C2%B7%20Hackathon%20Finalist&descSize=16&descColor=d1fae5&descAlignY=65&animation=fadeIn)
 
 <div align="center">
 
