@@ -1,7 +1,16 @@
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:064e3b,50:065f46,100:047857&height=250&section=header&text=Harishram%20Balamurugan&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%C2%B7%20LLM%2FRAG%20Engineer%20%C2%B7%20Hackathon%20Finalist&descSize=17&descColor=d1fae5&descAlign=50&descAlignY=60&animation=fadeIn)
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishram-balamurugan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harishram4106)
+![Profile Views](https://komarev.com/ghpvc/?username=Harishram4106&style=for-the-badge&color=10b981&labelColor=374151&label=PROFILE+VIEWS)
+![Internships](https://img.shields.io/badge/AI_INTERNSHIPS-2-10b981?style=for-the-badge&labelColor=374151)
+![Hackathons](https://img.shields.io/badge/HACKATHONS-3-10b981?style=for-the-badge&labelColor=374151)
+![Certifications](https://img.shields.io/badge/CERTIFICATIONS-20%2B-10b981?style=for-the-badge&labelColor=374151)
+![Repos](https://img.shields.io/badge/REPOS-12-10b981?style=for-the-badge&labelColor=374151)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-10b981?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151)](https://www.linkedin.com/in/harishram-balamurugan)
+[![GitHub](https://img.shields.io/badge/GitHub-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](https://github.com/Harishram4106)
+[![Email](https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=374151)](mailto:harishram.b06@gmail.com)
 
 </div>
 
