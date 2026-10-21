@@ -380,16 +380,13 @@ Agentic AI and gamification for an AI-driven, decentralized learning platform.
 ## `> activity-graph --timeline`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishram4106&bg_color=0d1117&color=7dff8a&line=d2ff4d&point=ffffff&area=true&area_color=7dff8a&title_color=d2ff4d&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harishram4106&theme=github_dark" width="100%" alt="activity graph" />
 </p>
 
 ---
 
 ## `> contribution-report --detailed`
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harishram4106&theme=github_dark" width="100%" alt="profile details" />
-</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harishram4106&theme=github_dark" width="49%" alt="repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harishram4106&theme=github_dark" width="49%" alt="most commit language" />
