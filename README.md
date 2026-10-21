@@ -7,9 +7,14 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86_SEBI_TechSprint_2026-%E2%82%B950%2C000_Jury_Recommendation_%C2%B7_Global_Fintech_Fest-d2ff4d?style=for-the-badge&labelColor=0d1117" alt="SEBI TechSprint 2026 — ₹50,000 Jury Recommendation" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/B.E._Computer_Science-Chennai_Institute_of_Technology-d2ff4d?style=flat-square&labelColor=161b22" alt="degree" />
   <img src="https://img.shields.io/badge/📍_Chennai-Tamil_Nadu,_India-d2ff4d?style=flat-square&labelColor=161b22" alt="location" />
   <a href="https://harishram-webportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-harishram--webportfolio-d2ff4d?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="portfolio" /></a>
+  <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-1000%2F1000_%E2%98%85-d2ff4d?style=flat-square&logo=amazonaws&logoColor=d2ff4d&labelColor=161b22" alt="AWS Certified AI Practitioner — 1000/1000" />
 </p>
 
 <br />
@@ -28,11 +33,15 @@
   <img src="https://img.shields.io/github/stars/Harishram4106?affiliations=OWNER&style=flat-square&logo=github&label=Stars&labelColor=161b22&color=d2ff4d" alt="stars" />
 </p>
 
+<p align="center"><code>🏆 SEBI TechSprint 2026 · ₹50,000 Jury Recommendation @ Global Fintech Fest</code></p>
+
 ---
 
 ## `> whoami`
 
 Pre-final year **Computer Science** student at Chennai Institute of Technology who builds **AI systems end to end**: LLM apps, RAG pipelines, agentic workflows and the backends that keep them running. Two AI internships so far, most recently with the **GBS IT team at Flex**, where I shipped four production-style AI tools.
+
+**Vantage** — my portfolio intelligence app — received a **₹50,000 Jury Recommendation** at **SEBI TechSprint 2026** (Global Fintech Fest). I'm also a certified **AWS AI Practitioner** with a perfect score of **1000 / 1000**.
 
 Outside internships I build things I'd actually use: a durable workflow engine, a fully offline voice assistant, safety-first navigation, and image registration for ISRO's Chandrayaan-2 imagery.
 
@@ -42,6 +51,8 @@ $ cat .profile
 ROLE        =  AI/ML Engineer  |  Full-Stack Developer
 STUDY       =  B.E. CSE @ Chennai Institute of Technology (2024 – 2028)
 EXP         =  AI Intern @ Flex (GBS IT)  |  AI Intern @ Skilleareum Inc
+AWARD       =  SEBI TechSprint 2026 · ₹50K Jury Recommendation @ Global Fintech Fest
+CERT        =  AWS Certified AI Practitioner · 1000 / 1000
 FOCUS       =  LLM Apps  |  RAG  |  Agentic AI  |  MCP  |  Backend APIs
 SIDE_BUILD  =  Perpetua  |  OutpaceHQ  |  Alfred  |  Jarvis  |  NaviHer  |  Lunaris
 STACK       =  Python  |  FastAPI  |  Node.js  |  Next.js  |  Flutter  |  PostgreSQL
@@ -107,6 +118,21 @@ OPEN_TO     =  AI Engineering  +  Backend  +  LLM Systems roles
 ## `> ls /projects --sort=impact`
 
 <details open>
+<summary><b>▶ Vantage — Portfolio Intelligence &nbsp;·&nbsp; 🏆 SEBI TechSprint 2026</b></summary>
+
+<br />
+
+Portfolio intelligence for Indian retail investors. Vantage X-rays your mutual fund holdings down to the underlying companies — so you see your real exposure, not just fund names. Received a **₹50,000 Jury Recommendation** at **SEBI TechSprint 2026**, Global Fintech Fest.
+
+| Aspect | Detail |
+| --- | --- |
+| Stack | TypeScript |
+| Award | 🏆 ₹50,000 Jury Recommendation · SEBI TechSprint 2026 @ Global Fintech Fest |
+| Repo | [github.com/Harishram4106/Vantage](https://github.com/Harishram4106/Vantage) |
+
+</details>
+
+<details>
 <summary><b>▶ Perpetua — Durable Workflow Engine</b></summary>
 
 <br />
@@ -248,7 +274,7 @@ Extracts structured data from invoice PDFs and images. This builds on the invoic
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Vantage](https://github.com/Harishram4106/Vantage) | Portfolio intelligence for Indian retail investors; looks inside funds to the companies underneath | TypeScript |
+
 | [Dusk](https://github.com/Harishram4106/Dusk) | Pre-shift readiness screening: reaction time, webcam hand-tremor (FFT) and speech prosody | JavaScript |
 | [Cadence](https://github.com/Harishram4106/Cadence) | Social habit tracker with GPS or step-verified check-ins | Flutter |
 | [Taskly](https://github.com/Harishram4106/Taskly) | Tasks, habits, focus timer and stats in one Android app | Flutter |
@@ -294,12 +320,16 @@ Agentic AI and gamification for an AI-driven, decentralized learning platform.
 
 | Win | Detail |
 | --- | --- |
+| **▮ SEBI TechSprint 2026** | Vantage: ₹50,000 Jury Recommendation at Global Fintech Fest |
+| **▮ AWS Certified AI Practitioner** | Perfect score — 1000 / 1000 |
+| **▮ RevengersHack** | 8th on the leaderboard (top 15) with team White Hats |
+| **▮ Browser-Use Hackathon** | Bengaluru |
 | **▮ Hackathon Finalist** | DEFY'26 at VIT Chennai: reached the final round out of 50 teams in a 24-hour build |
 | **▮ 2x AI Intern** | Flex (GBS IT) and Skilleareum Inc, before final year |
 | **▮ Space Tech** | Lunaris: image registration for ISRO's Chandrayaan-2 imagery |
 | **▮ Builder** | 26 public repos across AI systems, mobile apps, Web3 and full-stack |
-| **▮ Certified** | 73 certifications from Anthropic, AWS, MongoDB and NPTEL (IIT Roorkee) |
-| **▮ Hackathons** | NXTGEN (SRMIST) · HackXios 2k25 (IIIT Bhopal x Devfolio) |
+| **▮ Certified** | 73+ certifications incl. AWS AI Practitioner (1000/1000), Anthropic, MongoDB and NPTEL (IIT Roorkee) |
+| **▮ Hackathons** | NXTGEN (SRMIST) · HackXios 2k25 (IIIT Bhopal x Devfolio) · RevengersHack · Browser-Use Hackathon (Bengaluru) |
 
 ---
 
