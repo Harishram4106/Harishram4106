@@ -367,15 +367,6 @@ Agentic AI and gamification for an AI-driven, decentralized learning platform.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishram4106&layout=compact&hide_border=true&bg_color=0d1117&title_color=d2ff4d&text_color=e6edf3&langs_count=8" alt="top languages" />
 </p>
 
----
-
-## `> trophy-case --display`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harishram4106&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-</p>
-
----
 
 ## `> activity-graph --timeline`
 
