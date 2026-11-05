@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8F%86_SEBI_TechSprint_2026-%E2%82%B950%2C000_Jury_Recommendation_%C2%B7_Global_Fintech_Fest-d2ff4d?style=for-the-badge&labelColor=0d1117" alt="SEBI TechSprint 2026 — ₹50,000 Jury Recommendation" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/B.E._Computer_Science-Chennai_Institute_of_Technology-d2ff4d?style=flat-square&labelColor=161b22" alt="degree" />
   <img src="https://img.shields.io/badge/📍_Chennai-Tamil_Nadu,_India-d2ff4d?style=flat-square&labelColor=161b22" alt="location" />
   <a href="https://harishram-webportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-harishram--webportfolio-d2ff4d?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="portfolio" /></a>
-  <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-1000%2F1000_%E2%98%85-d2ff4d?style=flat-square&logo=amazonaws&logoColor=d2ff4d&labelColor=161b22" alt="AWS Certified AI Practitioner — 1000/1000" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_SEBI_TechSprint_2026-Jury_Recommendation_·_₹50,000-d2ff4d?style=flat-square&labelColor=161b22" alt="SEBI TechSprint 2026 Jury Recommendation" />
+  <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-1000%2F1000-d2ff4d?style=flat-square&logo=amazon&logoColor=white&labelColor=161b22" alt="AWS Certified AI Practitioner" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-827%2F1000-d2ff4d?style=flat-square&logo=amazon&logoColor=white&labelColor=161b22" alt="AWS Certified Cloud Practitioner" />
 </p>
 
 <br />
@@ -33,15 +33,13 @@
   <img src="https://img.shields.io/github/stars/Harishram4106?affiliations=OWNER&style=flat-square&logo=github&label=Stars&labelColor=161b22&color=d2ff4d" alt="stars" />
 </p>
 
-<p align="center"><code>🏆 SEBI TechSprint 2026 · ₹50,000 Jury Recommendation @ Global Fintech Fest</code></p>
-
 ---
 
 ## `> whoami`
 
 Pre-final year **Computer Science** student at Chennai Institute of Technology who builds **AI systems end to end**: LLM apps, RAG pipelines, agentic workflows and the backends that keep them running. Two AI internships so far, most recently with the **GBS IT team at Flex**, where I shipped four production-style AI tools.
 
-**Vantage** — my portfolio intelligence app — received a **₹50,000 Jury Recommendation** at **SEBI TechSprint 2026** (Global Fintech Fest). I'm also a certified **AWS AI Practitioner** with a perfect score of **1000 / 1000**.
+With my team I built **Vantage**, which received a **₹50,000 Jury Recommendation at SEBI's Securities Market TechSprint 2026** at Global Fintech Fest.
 
 Outside internships I build things I'd actually use: a durable workflow engine, a fully offline voice assistant, safety-first navigation, and image registration for ISRO's Chandrayaan-2 imagery.
 
@@ -51,10 +49,10 @@ $ cat .profile
 ROLE        =  AI/ML Engineer  |  Full-Stack Developer
 STUDY       =  B.E. CSE @ Chennai Institute of Technology (2024 – 2028)
 EXP         =  AI Intern @ Flex (GBS IT)  |  AI Intern @ Skilleareum Inc
-AWARD       =  SEBI TechSprint 2026 · ₹50K Jury Recommendation @ Global Fintech Fest
-CERT        =  AWS Certified AI Practitioner · 1000 / 1000
 FOCUS       =  LLM Apps  |  RAG  |  Agentic AI  |  MCP  |  Backend APIs
-SIDE_BUILD  =  Perpetua  |  OutpaceHQ  |  Alfred  |  Jarvis  |  NaviHer  |  Lunaris
+AWARDS      =  SEBI TechSprint 2026 Jury Recommendation  |  DEFY'26 Finalist
+CERTS       =  AWS AI Practitioner (1000/1000)  |  AWS Cloud Practitioner (827/1000)  |  74 total
+SIDE_BUILD  =  Vantage  |  Perpetua  |  OutpaceHQ  |  Alfred  |  Jarvis  |  NaviHer  |  Lunaris
 STACK       =  Python  |  FastAPI  |  Node.js  |  Next.js  |  Flutter  |  PostgreSQL
 LOCATION    =  Chennai, India
 OPEN_TO     =  AI Engineering  +  Backend  +  LLM Systems roles
@@ -118,16 +116,17 @@ OPEN_TO     =  AI Engineering  +  Backend  +  LLM Systems roles
 ## `> ls /projects --sort=impact`
 
 <details open>
-<summary><b>▶ Vantage — Portfolio Intelligence &nbsp;·&nbsp; 🏆 SEBI TechSprint 2026</b></summary>
+<summary><b>▶ Vantage — Portfolio Intelligence for Indian Investors · 🏆 SEBI TechSprint 2026</b></summary>
 
 <br />
 
-Portfolio intelligence for Indian retail investors. Vantage X-rays your mutual fund holdings down to the underlying companies — so you see your real exposure, not just fund names. Received a **₹50,000 Jury Recommendation** at **SEBI TechSprint 2026**, Global Fintech Fest.
+Consolidates holdings across brokers, mutual funds, EPF, bonds, gold and REITs, then looks inside the funds to the companies underneath.
 
 | Aspect | Detail |
 | --- | --- |
+| Award | ₹50,000 Jury Recommendation, SEBI Securities Market TechSprint 2026 (Global Fintech Fest) |
 | Stack | TypeScript |
-| Award | 🏆 ₹50,000 Jury Recommendation · SEBI TechSprint 2026 @ Global Fintech Fest |
+| Team | Built with Guruyugan Karthik and Harihara Srinivas |
 | Repo | [github.com/Harishram4106/Vantage](https://github.com/Harishram4106/Vantage) |
 
 </details>
@@ -274,7 +273,6 @@ Extracts structured data from invoice PDFs and images. This builds on the invoic
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-
 | [Dusk](https://github.com/Harishram4106/Dusk) | Pre-shift readiness screening: reaction time, webcam hand-tremor (FFT) and speech prosody | JavaScript |
 | [Cadence](https://github.com/Harishram4106/Cadence) | Social habit tracker with GPS or step-verified check-ins | Flutter |
 | [Taskly](https://github.com/Harishram4106/Taskly) | Tasks, habits, focus timer and stats in one Android app | Flutter |
@@ -320,16 +318,15 @@ Agentic AI and gamification for an AI-driven, decentralized learning platform.
 
 | Win | Detail |
 | --- | --- |
-| **▮ SEBI TechSprint 2026** | Vantage: ₹50,000 Jury Recommendation at Global Fintech Fest |
-| **▮ AWS Certified AI Practitioner** | Perfect score — 1000 / 1000 |
-| **▮ RevengersHack** | 8th on the leaderboard (top 15) with team White Hats |
-| **▮ Browser-Use Hackathon** | Bengaluru |
+| **▮ SEBI TechSprint 2026** | Vantage received a ₹50,000 Jury Recommendation at SEBI's Securities Market TechSprint, Global Fintech Fest 2026 |
+| **▮ AWS Certified** | AWS Certified AI Practitioner (AIF-C01): 1000 / 1000 · AWS Certified Cloud Practitioner (CLF-C02): 827 / 1000 |
 | **▮ Hackathon Finalist** | DEFY'26 at VIT Chennai: reached the final round out of 50 teams in a 24-hour build |
 | **▮ 2x AI Intern** | Flex (GBS IT) and Skilleareum Inc, before final year |
 | **▮ Space Tech** | Lunaris: image registration for ISRO's Chandrayaan-2 imagery |
 | **▮ Builder** | 26 public repos across AI systems, mobile apps, Web3 and full-stack |
-| **▮ Certified** | 73+ certifications incl. AWS AI Practitioner (1000/1000), Anthropic, MongoDB and NPTEL (IIT Roorkee) |
-| **▮ Hackathons** | NXTGEN (SRMIST) · HackXios 2k25 (IIIT Bhopal x Devfolio) · RevengersHack · Browser-Use Hackathon (Bengaluru) |
+| **▮ Certified** | 74 certifications from AWS, Anthropic, MongoDB and NPTEL (IIT Roorkee) |
+| **▮ RevengersHack** | Team White Hats: 8th on the official leaderboard (42.1 / 50), top 15 teams |
+| **▮ More hackathons** | Browser-Use Hackathon: GTM Edition (Bengaluru) · NXTGEN (SRMIST) · HackXios 2k25 (IIIT Bhopal x Devfolio) |
 
 ---
 
@@ -360,24 +357,36 @@ Agentic AI and gamification for an AI-driven, decentralized learning platform.
 ## `> git stats --global`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harishram4106&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d2ff4d&icon_color=7dff8a&text_color=e6edf3&ring_color=d2ff4d&custom_title=Harishram's%20GitHub%20Stats" alt="stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Harishram4106&hide_border=true&background=0D1117&ring=D2FF4D&fire=7DFF8A&currStreakLabel=D2FF4D&sideLabels=D2FF4D&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FC9A3&stroke=2F7A3A" alt="streak" />
+  <img src="./assets/stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./assets/streak.svg" width="49%" alt="Contribution streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishram4106&layout=compact&hide_border=true&bg_color=0d1117&title_color=d2ff4d&text_color=e6edf3&langs_count=8" alt="top languages" />
+  <img src="./assets/languages.svg" width="99%" alt="Most used languages" />
 </p>
 
+---
+
+## `> trophy-case --display`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harishram4106&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+</p>
+
+---
 
 ## `> activity-graph --timeline`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harishram4106&theme=github_dark" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harishram4106&bg_color=0d1117&color=7dff8a&line=d2ff4d&point=ffffff&area=true&area_color=7dff8a&title_color=d2ff4d&hide_border=true" width="100%" alt="activity graph" />
 </p>
 
 ---
 
 ## `> contribution-report --detailed`
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harishram4106&theme=github_dark" width="100%" alt="profile details" />
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harishram4106&theme=github_dark" width="49%" alt="repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harishram4106&theme=github_dark" width="49%" alt="most commit language" />

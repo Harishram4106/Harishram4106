@@ -20,7 +20,7 @@ NAME_2 = "BALAMURUGAN"
 GREETING = "&gt; hello, world"
 TAGLINE = "AI/ML Engineer | Full-Stack Developer | LLM &amp; RAG Builder"
 CHIPS = ["Python", "FastAPI", "RAG", "Agentic AI", "Flutter"]
-FOOTLINE = "shipping &#8594; durable agents, RAG systems, local-first AI"
+FOOTLINE = "SEBI TechSprint 2026 award // shipping &#8594; durable agents, RAG, local-first AI"
 
 W, H = 1200, 460
 GREEN = "#7dff8a"
