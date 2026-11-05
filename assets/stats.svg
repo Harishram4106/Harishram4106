@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="248" viewBox="0 0 480 248" role="img" aria-label="GitHub stats">
+<title>GitHub stats</title>
+<style>
+  .t { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono','Courier New',monospace; fill: #e6edf3; }
+  .h { font-size: 17px; font-weight: 800; fill: #d2ff4d; }
+  .k { font-size: 14px; fill: #9fc9a3; }
+  .v { font-size: 14px; font-weight: 700; fill: #e6edf3; }
+  .big { font-size: 30px; font-weight: 800; fill: #e6edf3; }
+  .lbl { font-size: 13px; font-weight: 700; fill: #d2ff4d; }
+  .sub { font-size: 11px; fill: #9fc9a3; }
+  .fade { opacity: 0; animation: fade .6s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .fade { animation: none; opacity: 1; } }
+</style>
+<rect x="1" y="1" width="478" height="246" rx="10" fill="#060b07" stroke="#2f7a3a" stroke-width="1.5"/>
+<text x="24" y="38" class="t h">&gt; Harishram --stats</text>
+<g class="fade" style="animation-delay:0.0s"><rect x="24" y="61" width="6" height="12" fill="#7dff8a"/><text x="40" y="72" class="t k">Contributions (last year)</text><text x="456" y="72" text-anchor="end" class="t v">127</text></g>
+<g class="fade" style="animation-delay:0.1s"><rect x="24" y="86" width="6" height="12" fill="#7dff8a"/><text x="40" y="97" class="t k">Commits (last year)</text><text x="456" y="97" text-anchor="end" class="t v">99</text></g>
+<g class="fade" style="animation-delay:0.2s"><rect x="24" y="111" width="6" height="12" fill="#7dff8a"/><text x="40" y="122" class="t k">Pull requests</text><text x="456" y="122" text-anchor="end" class="t v">1</text></g>
+<g class="fade" style="animation-delay:0.3s"><rect x="24" y="136" width="6" height="12" fill="#7dff8a"/><text x="40" y="147" class="t k">Issues</text><text x="456" y="147" text-anchor="end" class="t v">0</text></g>
+<g class="fade" style="animation-delay:0.4s"><rect x="24" y="161" width="6" height="12" fill="#7dff8a"/><text x="40" y="172" class="t k">Public repos</text><text x="456" y="172" text-anchor="end" class="t v">26</text></g>
+<g class="fade" style="animation-delay:0.5s"><rect x="24" y="186" width="6" height="12" fill="#7dff8a"/><text x="40" y="197" class="t k">Stars earned</text><text x="456" y="197" text-anchor="end" class="t v">0</text></g>
+<g class="fade" style="animation-delay:0.6s"><rect x="24" y="211" width="6" height="12" fill="#7dff8a"/><text x="40" y="222" class="t k">Followers</text><text x="456" y="222" text-anchor="end" class="t v">4</text></g>
+</svg>
