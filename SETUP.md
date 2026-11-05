@@ -39,5 +39,5 @@ The steps use the GitHub website, so you don't need git on your machine.
 
 ## Good to know
 
-- The stats, streak, trophy, activity-graph and summary cards come from free public services. Now and then one of them hits a rate limit and shows a broken image for a while. It fixes itself.
+- The summary cards come from a free public service. Now and then it hits a rate limit and shows a broken image for a while. It fixes itself.
 - The hero card animates on GitHub: the name types out, the portrait scans in and the cursor blinks. Animation is switched off for visitors who set their device to reduce motion.
