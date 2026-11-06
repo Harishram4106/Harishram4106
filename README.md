@@ -1,36 +1,31 @@
 <p align="center">
-  <img src="./assets/heatmap.svg" width="100%" alt="Terminal-style GitHub contributions heatmap" />
-</p>
-
-<p align="center">
   <img src="./assets/hero.svg" width="100%" alt="Harishram Balamurugan, AI/ML Engineer and Full-Stack Developer, dot-matrix portrait" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E._Computer_Science-Chennai_Institute_of_Technology-d2ff4d?style=flat-square&labelColor=161b22" alt="degree" />
-  <img src="https://img.shields.io/badge/📍_Chennai-Tamil_Nadu,_India-d2ff4d?style=flat-square&labelColor=161b22" alt="location" />
-  <a href="https://harishram-webportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-harishram--webportfolio-d2ff4d?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="portfolio" /></a>
+  <img src="https://img.shields.io/badge/B.E._Computer_Science-Chennai_Institute_of_Technology-7dff8a?style=flat-square&labelColor=161b22" alt="degree" />
+  <img src="https://img.shields.io/badge/📍_Chennai-Tamil_Nadu,_India-7dff8a?style=flat-square&labelColor=161b22" alt="location" />
+  <a href="https://harishram-webportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-harishram--webportfolio-7dff8a?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="portfolio" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_SEBI_TechSprint_2026-Jury_Recommendation_·_₹50,000-d2ff4d?style=flat-square&labelColor=161b22" alt="SEBI TechSprint 2026 Jury Recommendation" />
-  <img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-1000%2F1000-d2ff4d?style=flat-square&logo=amazon&logoColor=white&labelColor=161b22" alt="AWS Certified AI Practitioner" />
-  <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-827%2F1000-d2ff4d?style=flat-square&logo=amazon&logoColor=white&labelColor=161b22" alt="AWS Certified Cloud Practitioner" />
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harishram-balamurugan"><img src="https://img.shields.io/badge/-LINKEDIN-d2ff4d?style=for-the-badge&logo=linkedin&logoColor=d2ff4d&labelColor=0d1117" alt="linkedin" /></a>
-  <a href="mailto:harishram.b06@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-d2ff4d?style=for-the-badge&logo=gmail&logoColor=d2ff4d&labelColor=0d1117" alt="email" /></a>
-  <a href="https://github.com/Harishram4106"><img src="https://img.shields.io/badge/-GITHUB-d2ff4d?style=for-the-badge&logo=github&logoColor=d2ff4d&labelColor=0d1117" alt="github" /></a>
+  <img src="https://img.shields.io/badge/🏆_SEBI_TechSprint_2026-Jury_Recommendation_·_₹50,000-7dff8a?style=flat-square&labelColor=161b22" alt="SEBI TechSprint 2026 Jury Recommendation" />
+  <img src="https://img.shields.io/badge/AWS_AI_Practitioner-1000%2F1000-7dff8a?style=flat-square&logo=amazon&logoColor=white&labelColor=161b22" alt="AWS Certified AI Practitioner" />
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-827%2F1000-7dff8a?style=flat-square&logo=amazon&logoColor=white&labelColor=161b22" alt="AWS Certified Cloud Practitioner" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harishram4106&style=flat-square&color=d2ff4d&label=Profile+Views" alt="views" />
-  <img src="https://img.shields.io/github/followers/Harishram4106?style=flat-square&logo=github&label=Followers&labelColor=161b22&color=d2ff4d" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Harishram4106?affiliations=OWNER&style=flat-square&logo=github&label=Stars&labelColor=161b22&color=d2ff4d" alt="stars" />
+  <a href="https://www.linkedin.com/in/harishram-balamurugan"><img src="https://img.shields.io/badge/-LINKEDIN-7dff8a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzBkMTExNycgZmlsbC1ydWxlPSdldmVub2RkJyBkPSdNMyAzaDE4djE4SDN6TTYuNSA5LjZ2OGgyLjZ2LTh6TTcuOCA1LjRhMS41IDEuNSAwIDEgMCAwIDMgMS41IDEuNSAwIDAgMCAwLTN6TTExIDkuNnY4aDIuNnYtNC4yYzAtMS4yLjYtMS44IDEuNS0xLjhzMS4zLjYgMS4zIDEuOHY0LjJIMTl2LTQuOGMwLTIuNC0xLjMtMy40LTMuMS0zLjQtMS4xIDAtMS44LjUtMi4zIDEuMXYtLjl6Jy8%2BPC9zdmc%2B&logoColor=0d1117&labelColor=7dff8a" alt="linkedin" /></a>
+  <a href="mailto:harishram.b06@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-7dff8a?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=7dff8a" alt="email" /></a>
+  <a href="https://github.com/Harishram4106"><img src="https://img.shields.io/badge/-GITHUB-7dff8a?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=7dff8a" alt="github" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harishram4106&style=flat-square&color=7dff8a&label=Profile+Views" alt="views" />
+  <img src="https://img.shields.io/github/followers/Harishram4106?style=flat-square&logo=github&label=Followers&labelColor=161b22&color=7dff8a" alt="followers" />
 </p>
 
 ---
@@ -84,18 +79,18 @@ OPEN_TO     =  AI Engineering  +  Backend  +  LLM Systems roles
 
 <p align="center"><b>[ AI &amp; LLM ]</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Claude_API-d2ff4d?style=flat-square&logo=anthropic&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-OpenAI-d2ff4d?style=flat-square&logo=openai&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-OpenRouter-d2ff4d?style=flat-square&logo=openrouter&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-Ollama-d2ff4d?style=flat-square&logo=ollama&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-Whisper-d2ff4d?style=flat-square&logo=openai&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-Hugging_Face-d2ff4d?style=flat-square&logo=huggingface&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-FAISS-d2ff4d?style=flat-square&logo=meta&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-RAG-d2ff4d?style=flat-square&logo=databricks&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-MCP-d2ff4d?style=flat-square&logo=modelcontextprotocol&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-AWS_Bedrock-d2ff4d?style=flat-square&logo=amazon&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-PaddleOCR-d2ff4d?style=flat-square&logo=paddlepaddle&logoColor=d2ff4d&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/-PostGIS-d2ff4d?style=flat-square&logo=postgresql&logoColor=d2ff4d&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Claude_API-7dff8a?style=flat-square&logo=anthropic&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-OpenAI-7dff8a?style=flat-square&logo=openai&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-OpenRouter-7dff8a?style=flat-square&logo=openrouter&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Ollama-7dff8a?style=flat-square&logo=ollama&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Whisper-7dff8a?style=flat-square&logo=openai&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Hugging_Face-7dff8a?style=flat-square&logo=huggingface&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-FAISS-7dff8a?style=flat-square&logo=meta&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-RAG-7dff8a?style=flat-square&logo=databricks&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-MCP-7dff8a?style=flat-square&logo=modelcontextprotocol&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-AWS_Bedrock-7dff8a?style=flat-square&logo=amazon&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-PaddleOCR-7dff8a?style=flat-square&logo=paddlepaddle&logoColor=7dff8a&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-PostGIS-7dff8a?style=flat-square&logo=postgresql&logoColor=7dff8a&labelColor=0d1117" />
 </p>
 
 ---
@@ -333,20 +328,20 @@ Agentic AI and gamification for an AI-driven, decentralized learning platform.
 ## `> git log --oneline /education`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E._COMPUTER_SCIENCE_·_2024–2028-CHENNAI_INSTITUTE_OF_TECHNOLOGY-d2ff4d?style=for-the-badge&labelColor=0d1117" alt="B.E. Computer Science, Chennai Institute of Technology" />
+  <img src="https://img.shields.io/badge/B.E._COMPUTER_SCIENCE_·_2024–2028-CHENNAI_INSTITUTE_OF_TECHNOLOGY-7dff8a?style=for-the-badge&labelColor=0d1117" alt="B.E. Computer Science, Chennai Institute of Technology" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/SCHOOL_·_2022–2024-BALA_VIDYA_MANDIR-d2ff4d?style=for-the-badge&labelColor=0d1117" alt="Bala Vidya Mandir" />
+  <img src="https://img.shields.io/badge/SCHOOL_·_2022–2024-BALA_VIDYA_MANDIR-7dff8a?style=for-the-badge&labelColor=0d1117" alt="Bala Vidya Mandir" />
 </p>
 
 <!--
 ## `> cat coding-profiles.sh`
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-LEETCODE-d2ff4d?style=for-the-badge&logo=leetcode&logoColor=d2ff4d&labelColor=0d1117" /></a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_HANDLE"><img src="https://img.shields.io/badge/-GEEKSFORGEEKS-d2ff4d?style=for-the-badge&logo=geeksforgeeks&logoColor=d2ff4d&labelColor=0d1117" /></a>
-  <a href="https://www.hackerrank.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/-HACKERRANK-d2ff4d?style=for-the-badge&logo=hackerrank&logoColor=d2ff4d&labelColor=0d1117" /></a>
-  <a href="https://www.codechef.com/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/-CODECHEF-d2ff4d?style=for-the-badge&logo=codechef&logoColor=d2ff4d&labelColor=0d1117" /></a>
+  <a href="https://leetcode.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-LEETCODE-7dff8a?style=for-the-badge&logo=leetcode&logoColor=0d1117&labelColor=7dff8a" /></a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_HANDLE"><img src="https://img.shields.io/badge/-GEEKSFORGEEKS-7dff8a?style=for-the-badge&logo=geeksforgeeks&logoColor=0d1117&labelColor=7dff8a" /></a>
+  <a href="https://www.hackerrank.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/-HACKERRANK-7dff8a?style=for-the-badge&logo=hackerrank&logoColor=0d1117&labelColor=7dff8a" /></a>
+  <a href="https://www.codechef.com/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/-CODECHEF-7dff8a?style=for-the-badge&logo=codechef&logoColor=0d1117&labelColor=7dff8a" /></a>
 </p>
 
 ---
@@ -356,6 +351,9 @@ Agentic AI and gamification for an AI-driven, decentralized learning platform.
 
 ## `> git stats --global`
 
+<p align="center">
+  <img src="./assets/heatmap.svg" width="100%" alt="Terminal-style GitHub contributions heatmap" />
+</p>
 <p align="center">
   <img src="./assets/stats.svg" width="49%" alt="GitHub stats" />
   <img src="./assets/streak.svg" width="49%" alt="Contribution streak" />
@@ -420,10 +418,10 @@ open_to:
 ## `> ping me`
 
 <p align="center">
-  <a href="mailto:harishram.b06@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-d2ff4d?style=for-the-badge&logo=gmail&logoColor=d2ff4d&labelColor=0d1117" alt="gmail" /></a>
-  <a href="https://www.linkedin.com/in/harishram-balamurugan"><img src="https://img.shields.io/badge/-LINKEDIN-d2ff4d?style=for-the-badge&logo=linkedin&logoColor=d2ff4d&labelColor=0d1117" alt="linkedin" /></a>
-  <a href="https://github.com/Harishram4106"><img src="https://img.shields.io/badge/-GITHUB-d2ff4d?style=for-the-badge&logo=github&logoColor=d2ff4d&labelColor=0d1117" alt="github" /></a>
-  <a href="https://harishram-webportfolio.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-d2ff4d?style=for-the-badge&logo=vercel&logoColor=d2ff4d&labelColor=0d1117" alt="portfolio" /></a>
+  <a href="mailto:harishram.b06@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-7dff8a?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=7dff8a" alt="gmail" /></a>
+  <a href="https://www.linkedin.com/in/harishram-balamurugan"><img src="https://img.shields.io/badge/-LINKEDIN-7dff8a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzBkMTExNycgZmlsbC1ydWxlPSdldmVub2RkJyBkPSdNMyAzaDE4djE4SDN6TTYuNSA5LjZ2OGgyLjZ2LTh6TTcuOCA1LjRhMS41IDEuNSAwIDEgMCAwIDMgMS41IDEuNSAwIDAgMCAwLTN6TTExIDkuNnY4aDIuNnYtNC4yYzAtMS4yLjYtMS44IDEuNS0xLjhzMS4zLjYgMS4zIDEuOHY0LjJIMTl2LTQuOGMwLTIuNC0xLjMtMy40LTMuMS0zLjQtMS4xIDAtMS44LjUtMi4zIDEuMXYtLjl6Jy8%2BPC9zdmc%2B&logoColor=0d1117&labelColor=7dff8a" alt="linkedin" /></a>
+  <a href="https://github.com/Harishram4106"><img src="https://img.shields.io/badge/-GITHUB-7dff8a?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=7dff8a" alt="github" /></a>
+  <a href="https://harishram-webportfolio.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-7dff8a?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=7dff8a" alt="portfolio" /></a>
 </p>
 
 <p align="center"><code>// by day: CS student  |  by night: shipping AI systems</code></p>

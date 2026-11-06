@@ -103,7 +103,6 @@ def wrap(title, inner, footer):
   .t {{ font-family: {MONO}; fill: #d7ffd9; }}
   .h {{ font-size: 30px; font-weight: 800; }}
   .lbl {{ font-size: 15px; fill: #9fc9a3; }}
-  .pill {{ font-size: 15px; fill: #c8f5cb; }}
   .foot {{ font-size: 14px; fill: {GREEN}; fill-opacity: .85; }}
   rect[style] {{ opacity: 0; animation: pop .5s ease-out forwards; }}
   @keyframes pop {{ to {{ opacity: 1; }} }}
@@ -113,9 +112,6 @@ def wrap(title, inner, footer):
 <rect x="14" y="14" width="{W - 28}" height="{H - 28}" rx="22" fill="#060b07" stroke="{GREEN_DIM}" stroke-width="2"/>
 <rect x="28" y="28" width="{W - 56}" height="{H - 70}" rx="16" fill="none" stroke="{GREEN_DIM}" stroke-opacity=".55"/>
 <text x="60" y="80" class="t h">{title}</text>
-<rect x="{W - 230}" y="46" width="180" height="44" rx="8" fill="#08120a" stroke="{GREEN_DIM}"/>
-<text x="{W - 208}" y="74" class="t pill">Past year</text>
-<path d="M{W - 82} 64 l12 0 l-6 8 z" fill="#c8f5cb"/>
 {inner}
 <text x="60" y="{H - 22}" class="t foot">{footer}</text>
 </svg>

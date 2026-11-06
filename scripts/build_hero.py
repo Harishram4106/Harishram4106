@@ -20,17 +20,18 @@ NAME_2 = "BALAMURUGAN"
 GREETING = "&gt; hello, world"
 TAGLINE = "AI/ML Engineer | Full-Stack Developer | LLM &amp; RAG Builder"
 CHIPS = ["Python", "FastAPI", "RAG", "Agentic AI", "Flutter"]
-FOOTLINE = "SEBI TechSprint 2026 award // shipping &#8594; durable agents, RAG, local-first AI"
+FOOTLINE = "shipping &#8594; durable agents &#183; RAG &#183; local-first AI"
 
 W, H = 1200, 460
 GREEN = "#7dff8a"
+GREEN_SOFT = "#c8f5cb"
 GREEN_DIM = "#2f7a3a"
 MONO = "'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono','Courier New',monospace"
 
 # portrait panel
 PX, PY, PW, PH = 760, 50, 390, 360
-GRID_W, GRID_H = 116, 98         # dots across / down
-STEP = 3.1                        # px between dot centres
+GRID_W, GRID_H = 140, 118        # dots across / down
+STEP = 2.57                       # px between dot centres
 
 
 def dot_path(dots, r):
@@ -77,7 +78,7 @@ def levels_from_photo(path):
     # suits still spread across all four dot sizes
     ranked = sorted(inside, key=lambda p: g[p])
     n = max(1, len(ranked) - 1)
-    return {p: (i / n) ** 1.3 for i, p in enumerate(ranked)}
+    return {p: (i / n) ** 0.9 for i, p in enumerate(ranked)}
 
 
 def levels_placeholder():
@@ -106,8 +107,9 @@ def portrait_svg(levels):
     for (x, y), v in levels.items():
         b = min(5, int(v * 6))
         buckets[b].append((ox + x * STEP, oy + y * STEP))
-    radii = {0: 0.35, 1: 0.55, 2: 0.75, 3: 0.95, 4: 1.15, 5: 1.4}
-    alpha = {0: 0.35, 1: 0.5, 2: 0.65, 3: 0.8, 4: 0.92, 5: 1.0}
+    k = STEP / 3.1  # dot size tracks grid density
+    radii = {b: round(r * k, 2) for b, r in {0: 0.4, 1: 0.6, 2: 0.8, 3: 1.0, 4: 1.2, 5: 1.4}.items()}
+    alpha = {0: 0.4, 1: 0.58, 2: 0.74, 3: 0.88, 4: 0.96, 5: 1.0}
     parts = []
     for b in range(6):
         if buckets[b]:
@@ -120,8 +122,8 @@ def chips_svg(x0, y0):
     for c in CHIPS:
         w = 24 + len(c) * 10.2
         parts.append(
-            f'<g class="chip"><rect x="{x:.0f}" y="{y0}" width="{w:.0f}" height="34" rx="4" fill="none" '
-            f'stroke="{GREEN}" stroke-width="2"/><text x="{x + w / 2:.0f}" y="{y0 + 23}" text-anchor="middle" '
+            f'<g class="chip"><rect x="{x:.0f}" y="{y0}" width="{w:.0f}" height="34" rx="4" fill="{GREEN}" fill-opacity=".1" '
+            f'stroke="{GREEN}" stroke-width="2.5"/><text x="{x + w / 2:.0f}" y="{y0 + 23}" text-anchor="middle" '
             f'class="t chipt">{c}</text></g>')
         x += w + 12
     return "\n".join(parts)
@@ -134,6 +136,7 @@ def build(levels):
   <pattern id="dots" width="3" height="3" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.15" fill="#fff"/></pattern>
   <mask id="matrix" maskUnits="userSpaceOnUse" x="0" y="0" width="{W}" height="{H}"><rect width="{W}" height="{H}" fill="url(#dots)"/></mask>
   <filter id="glow" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft" x="-5%" y="-30%" width="110%" height="160%"><feGaussianBlur stdDeviation="1.2" result="b"/><feComponentTransfer in="b" result="b"><feFuncA type="linear" slope=".6"/></feComponentTransfer><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   <radialGradient id="haze" cx="0.62" cy="0.55" r="0.55"><stop offset="0" stop-color="#103a1a" stop-opacity=".55"/><stop offset="1" stop-color="#050805" stop-opacity="0"/></radialGradient>
   <linearGradient id="scan" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="{GREEN}" stop-opacity="0"/><stop offset=".5" stop-color="{GREEN}" stop-opacity=".18"/><stop offset="1" stop-color="{GREEN}" stop-opacity="0"/></linearGradient>
   <clipPath id="panel"><rect x="{PX}" y="{PY}" width="{PW}" height="{PH}" rx="10"/></clipPath>
@@ -147,8 +150,9 @@ def build(levels):
   .small {{ font-size: 15px; font-weight: 700; letter-spacing: 3px; }}
   .greet {{ font-size: 22px; font-weight: 700; }}
   .tag {{ font-size: 19px; font-weight: 700; }}
-  .chipt {{ font-size: 16px; font-weight: 700; }}
-  .foot {{ font-size: 16px; font-weight: 700; fill-opacity: .8; }}
+  .tag, .greet {{ fill: {GREEN_SOFT}; }}
+  .chipt {{ font-size: 16px; font-weight: 700; fill: {GREEN_SOFT}; }}
+  .foot {{ font-size: 16px; font-weight: 700; fill-opacity: .9; }}
   .cap {{ font-size: 14px; fill-opacity: .9; }}
   .blink {{ animation: blink 1s steps(1) infinite; }}
   .fade {{ opacity: 0; animation: fade .6s ease-out forwards; }}
@@ -164,15 +168,18 @@ def build(levels):
 <rect x="28" y="28" width="{W - 56}" height="{H - 56}" rx="16" fill="none" stroke="{GREEN_DIM}" stroke-opacity=".55"/>
 <rect x="28" y="28" width="{W - 56}" height="{H - 56}" rx="16" fill="url(#haze)"/>
 
-<g mask="url(#matrix)" filter="url(#glow)">
+<g filter="url(#soft)">
   <text x="60" y="82" class="t small">SYSTEM ONLINE // PROFILE.EXE</text>
   <text x="60" y="138" class="t greet">{GREETING}</text>
-  <g clip-path="url(#type1)"><text x="56" y="210" class="t name">{NAME_1}</text></g>
-  <g clip-path="url(#type2)"><text x="56" y="284" class="t name">{NAME_2}<tspan class="blink">_</tspan></text></g>
   <g class="fade" style="animation-delay:2.6s"><text x="60" y="330" class="t tag">{TAGLINE}</text></g>
 </g>
 
-<g class="fade" style="animation-delay:2.9s" filter="url(#glow)">
+<g mask="url(#matrix)" filter="url(#glow)">
+  <g clip-path="url(#type1)"><text x="56" y="210" class="t name">{NAME_1}</text></g>
+  <g clip-path="url(#type2)"><text x="56" y="284" class="t name">{NAME_2}<tspan class="blink">_</tspan></text></g>
+</g>
+
+<g class="fade" style="animation-delay:2.9s" filter="url(#soft)">
 {chips_svg(60, 352)}
 </g>
 
@@ -185,7 +192,7 @@ def build(levels):
 <line x1="{PX - 50}" y1="{PY + PH - 30}" x2="{PX}" y2="{PY + PH - 30}" stroke="{GREEN_DIM}"/>
 <rect x="{PX}" y="{PY}" width="{PW}" height="{PH}" rx="10" fill="#020402" stroke="{GREEN_DIM}" stroke-width="1.5"/>
 <g clip-path="url(#panel)">
-  <g clip-path="url(#reveal)" filter="url(#glow)">
+  <g clip-path="url(#reveal)" filter="url(#soft)">
 {portrait_svg(levels)}
   </g>
   <rect class="scanline" x="{PX}" y="0" width="{PW}" height="90" fill="url(#scan)"/>
