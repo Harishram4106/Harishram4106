@@ -14,8 +14,8 @@
 </style>
 <rect x="1" y="1" width="478" height="246" rx="10" fill="#060b07" stroke="#2f7a3a" stroke-width="1.5"/>
 <text x="24" y="38" class="t h">&gt; Harishram --stats</text>
-<g class="fade" style="animation-delay:0.0s"><rect x="24" y="61" width="6" height="12" fill="#7dff8a"/><text x="40" y="72" class="t k">Contributions (last year)</text><text x="456" y="72" text-anchor="end" class="t v">134</text></g>
-<g class="fade" style="animation-delay:0.1s"><rect x="24" y="86" width="6" height="12" fill="#7dff8a"/><text x="40" y="97" class="t k">Commits (last year)</text><text x="456" y="97" text-anchor="end" class="t v">107</text></g>
+<g class="fade" style="animation-delay:0.0s"><rect x="24" y="61" width="6" height="12" fill="#7dff8a"/><text x="40" y="72" class="t k">Contributions (last year)</text><text x="456" y="72" text-anchor="end" class="t v">135</text></g>
+<g class="fade" style="animation-delay:0.1s"><rect x="24" y="86" width="6" height="12" fill="#7dff8a"/><text x="40" y="97" class="t k">Commits (last year)</text><text x="456" y="97" text-anchor="end" class="t v">108</text></g>
 <g class="fade" style="animation-delay:0.2s"><rect x="24" y="111" width="6" height="12" fill="#7dff8a"/><text x="40" y="122" class="t k">Pull requests</text><text x="456" y="122" text-anchor="end" class="t v">1</text></g>
 <g class="fade" style="animation-delay:0.3s"><rect x="24" y="136" width="6" height="12" fill="#7dff8a"/><text x="40" y="147" class="t k">Issues</text><text x="456" y="147" text-anchor="end" class="t v">0</text></g>
 <g class="fade" style="animation-delay:0.4s"><rect x="24" y="161" width="6" height="12" fill="#7dff8a"/><text x="40" y="172" class="t k">Public repos</text><text x="456" y="172" text-anchor="end" class="t v">26</text></g>
