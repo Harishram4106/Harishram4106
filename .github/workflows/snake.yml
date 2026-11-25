@@ -28,5 +28,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          author: Harishram4106 <182080538+Harishram4106@users.noreply.github.com>
+          committer: Harishram4106 <182080538+Harishram4106@users.noreply.github.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

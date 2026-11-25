@@ -34,8 +34,8 @@ jobs:
       - name: Commit if changed
         run: |
           # commit as you, so the only contributor on the repo is you
-          git config user.name "${{ github.actor }}"
-          git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+          git config user.name "Harishram4106"
+          git config user.email "182080538+Harishram4106@users.noreply.github.com"
           git add assets/heatmap.svg assets/stats.svg assets/streak.svg assets/languages.svg
           git diff --cached --quiet && exit 0
           git commit -m "chore: refresh profile stats"
